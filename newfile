@@ -1,7 +1,12 @@
-This is just a new file placeholder
-
-<script type="text/javascript">
-  alert("this is OK")
-</script>
-
-<iframe src="" style=""/> @2017
+!DOCTTYPE HTML
+<html>
+<head>
+  This is just a new file placeholder
+  <script type="text/javascript">
+    alert("this is OK")
+  </script>
+</head>
+<body>
+  <iframe src="" style=""/> @2017
+</body>
+</html>
